@@ -1,0 +1,4 @@
+torch==2.3.1+cu121
+datasets==2.20.0
+safetensors==0.4.3
+youtokentome==1.0.6
